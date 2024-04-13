@@ -1,1 +1,1 @@
-# codealpha_imagerecognition
+# imagerecognition_using_CNN
